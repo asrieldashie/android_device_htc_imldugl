@@ -15,7 +15,7 @@
 #
 
 # Release name
-PRODUCT_RELEASE_NAME := brepdugl
+PRODUCT_RELEASE_NAME := imldugl
 
 $(call inherit-product, build/target/product/embedded.mk)
 
@@ -26,8 +26,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := brepdugl
-PRODUCT_NAME := omni_brepdugl
+PRODUCT_DEVICE := imldugl
+PRODUCT_NAME := omni_imldugl
 PRODUCT_BRAND := htc
-PRODUCT_MODEL := HTC Desire 12+
+PRODUCT_MODEL := HTC U12 Life
 PRODUCT_MANUFACTURER := HTC
