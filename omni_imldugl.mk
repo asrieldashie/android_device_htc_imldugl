@@ -29,5 +29,5 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/languages_full.mk)
 PRODUCT_DEVICE := imldugl
 PRODUCT_NAME := omni_imldugl
 PRODUCT_BRAND := htc
-PRODUCT_MODEL := HTC U12 Life
+PRODUCT_MODEL := HTC U12 life
 PRODUCT_MANUFACTURER := HTC
