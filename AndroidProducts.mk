@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_brepdugl.mk
+    $(LOCAL_DIR)/omni_imldugl.mk
